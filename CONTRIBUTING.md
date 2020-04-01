@@ -30,7 +30,7 @@ guidelines on the Creative Common Open Source website.
 Master branch is for the releases. Development will be done in the development
 branch.  Occasionally other branches may be available to test new features or
 play with new ideas, but they may be deleted anytime so don't rely on those
-branches. To start contributing code, checkout the `develop` branch
+branches. To start contributing code, checkout the `develop` branch.
 
 ### WordPress Coding Standards
 
